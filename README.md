@@ -57,4 +57,4 @@ These were solved by reviewing Bootstrap documentation and refining CSS structur
 - Learned component remixing
 - Improved deployment workflow using GitHub Pages
 
----
+--- Charan
